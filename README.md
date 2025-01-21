@@ -6,11 +6,11 @@ Kong is a simple 3D game inspired by the classic Donkey Kong. The goal is to hel
 - **Avoid the barrels**: Barrels fall randomly and block your path.
 - **Reach the treasure chest**: Navigate platforms and ladders to reach the goal.
 - **Game states**: 
+  - Move left and right with `A` and `D`.
+  - Jump with `Space`.
+  - Climb ladders with `W`.
   - Restart the game with `R`.
   - Exit the game with `ESC`.
-  - Move left and right with `A` and `D`.
-  - Climb ladders with `W`.
-  - Jump with `Space`.
 - Background and environment designed with a simple retro aesthetic.
 
 ## 📂 Project details
