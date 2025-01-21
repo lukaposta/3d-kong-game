@@ -1,4 +1,4 @@
-# Kong - Simple 3D Platformer Game
+# KONG - Simple 3D Platformer Game
 
 Kong is a simple 3D game inspired by the classic Donkey Kong. The goal is to help the player avoid obstacles (barrels) and reach the treasure chest. The game is built in Unity and is perfect for showcasing basic game mechanics.
 
@@ -13,7 +13,7 @@ Kong is a simple 3D game inspired by the classic Donkey Kong. The goal is to hel
   - Jump with `Space`.
 - Background and environment designed with a simple retro aesthetic.
 
-## 📂 Project Details
+## 📂 Project details
 - **Engine**: Unity
 - **Language**: C# (for scripting)
 - **Genre**: Platformer
