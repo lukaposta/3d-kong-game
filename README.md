@@ -2,7 +2,7 @@
 
 Kong is a simple 3D game inspired by the classic Donkey Kong. The goal is to help the player avoid obstacles (barrels) and reach the treasure chest. The game is built in Unity and is perfect for showcasing basic game mechanics.
 
-[![image](https://github.com/user-attachments/assets/4c0dbad7-b05c-40af-bc71-fc16a46a7e34)](https://github.com/user-attachments/assets/4c0dbad7-b05c-40af-bc71-fc16a46a7e34)
+![image](https://github.com/user-attachments/assets/4c0dbad7-b05c-40af-bc71-fc16a46a7e34)](https://github.com/user-attachments/assets/4c0dbad7-b05c-40af-bc71-fc16a46a7e34)
 
 
 ## 🎮 Features
